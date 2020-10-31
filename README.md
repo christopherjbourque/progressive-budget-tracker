@@ -30,8 +30,8 @@ The application should allow users to:
 
 
 ## Screen Shots
-![Without Data]("https://github.com/christopherjbourque/progressive-budget-tracker/blob/main/%22/screenshots/without-data.jpg")
-![With Data]("https://github.com/christopherjbourque/progressive-budget-tracker/blob/main/%22/screenshots/with-data.jpg")
++ ![Without Data]("./screenshots/without-data.jpg")
++ ![With Data]("./screenshots/with-data.jpg")
 
 
 ## Built With
