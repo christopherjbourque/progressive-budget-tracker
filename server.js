@@ -38,9 +38,14 @@ app.use(compression());
 
 // Connect to database
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget', {
-  useNewUrlParser: true,
-});
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget',
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false
+  }
+);
 
 
 // Setup routes
