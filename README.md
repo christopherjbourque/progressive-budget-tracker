@@ -30,8 +30,8 @@ The application should allow users to:
 
 
 ## Screen Shots
-+ ![Without Data]("./screenshots/without-data.jpg")
-+ ![With Data]("./screenshots/with-data.jpg")
++ ![Blank](./screenshots/without-data.jpg)
++ ![With Data](./screenshots/with-data.jpg)
 
 
 ## Built With
