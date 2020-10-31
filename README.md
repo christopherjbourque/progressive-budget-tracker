@@ -2,6 +2,10 @@
 Progressive Budget Tracker
 
 
+## Access
+https://cjb-progressive-budget-tracker.herokuapp.com/
+
+
 ## Description
 Progressive Budget Tracker is a simple progressive web application (PWA) that allows users to keep track of their income and expenses online and offline.  In the case of the latter, once internet connectivity is reestablished, any offline data will be submitted to the database.
 
@@ -26,10 +30,11 @@ The application should allow users to:
 
 
 ## Screen Shots
-![CLI](/screenshots/cli-at-start.png)
+![Without Data]("/screenshots/without-data.jpg")
+![With Data]("/screenshots/with-data.jpg")
 
 
-Built With
+## Built With
 + HTML
 + CSS
 + JavaScript
